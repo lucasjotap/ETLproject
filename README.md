@@ -16,4 +16,4 @@ The ideia behind the project is to pull data from a website (EXTRACT), once it's
 This project requires you to use this API (RECENTLY_PLAYED_TRACKS):
 `https://api.spotify.com/v1/me/player/recently-played`
 
-Now along with the souce code within this repo you should be able to create your ETL, have fun!
+Now along with the source code within this repo you should be able to create your ETL, have fun!
