@@ -1,4 +1,4 @@
-# spotifyETLproject
+# Spotify ETL project
 
 In this project we create a quick ETL process using an API to pull data from a server to create an appealing database that can be used for analytical purposes. 
 
